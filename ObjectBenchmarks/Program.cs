@@ -28,6 +28,34 @@ namespace SpedTest
             CreateObject(stopwatch);
 
             CreateDynamic(stopwatch);
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+
+            CreateObject(stopwatch);
+
+            CreateDynamic(stopwatch);
+
 
             Console.ReadKey();
 
